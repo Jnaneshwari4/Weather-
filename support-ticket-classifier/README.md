@@ -94,7 +94,30 @@ Category Classifier    Priority Classifier
 
 ---
 
+## Prerequisites
+
+| Requirement | Minimum version | Check |
+|-------------|----------------|-------|
+| [Python](https://www.python.org/downloads/) | 3.8 or later | `python --version` |
+| pip | bundled with Python 3.4+ | `pip --version` |
+
+A virtual environment is recommended so dependencies do not conflict with other projects:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate      # macOS / Linux
+# .venv\Scripts\activate       # Windows
+```
+
+---
+
 ## Quick Start
+
+All commands below assume your working directory is `support-ticket-classifier/`.
+
+```bash
+cd support-ticket-classifier
+```
 
 ### 1. Install dependencies
 
@@ -105,7 +128,6 @@ pip install -r requirements.txt
 ### 2. Train the models
 
 ```bash
-cd support-ticket-classifier
 python src/train_model.py
 ```
 
@@ -116,13 +138,15 @@ This will:
 - Save the best models to `models/`
 - Save visualisation charts to `figures/`
 
-### 3. Run predictions
+### 3. Run predictions on sample tickets
 
 ```bash
 python src/predict.py
 ```
 
-### 4. Interactive notebook
+> **Note:** `train_model.py` must be run at least once before `predict.py` so that the model files exist in `models/`.
+
+### 4. Open the interactive Jupyter notebook
 
 ```bash
 jupyter notebook notebook/ticket_classification.ipynb
