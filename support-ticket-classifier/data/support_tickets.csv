@@ -1,0 +1,101 @@
+ticket_id,ticket_text,category,priority
+1,"My internet connection keeps dropping every few minutes and I cannot work from home.",Technical Issue,High
+2,"I was charged twice for my subscription this month, please refund the extra payment.",Billing,High
+3,"I cannot login to my account and password reset is not working.",Account,High
+4,"How do I change my subscription plan from monthly to annual?",General Query,Low
+5,"The application crashes every time I try to open the settings menu.",Technical Issue,High
+6,"I need an invoice for my last payment for tax purposes.",Billing,Medium
+7,"My account has been locked after too many failed login attempts.",Account,High
+8,"What are the system requirements for running your desktop app?",General Query,Low
+9,"The video streaming feature is buffering constantly and unwatchable.",Technical Issue,High
+10,"I was billed for a service I cancelled two months ago.",Billing,High
+11,"I forgot my username and cannot recover my account.",Account,Medium
+12,"Can I share my account with a family member?",General Query,Low
+13,"The mobile app crashes on startup after the latest update.",Technical Issue,High
+14,"I need to update my billing address for my subscription.",Billing,Low
+15,"How do I enable two-factor authentication on my account?",Account,Medium
+16,"What payment methods do you accept?",General Query,Low
+17,"The file upload feature is not working and I keep getting an error.",Technical Issue,Medium
+18,"I received a charge I do not recognize on my credit card statement.",Billing,High
+19,"I need to transfer my account to a new email address.",Account,Medium
+20,"Is there a mobile app available for iOS and Android?",General Query,Low
+21,"Server errors keep appearing whenever I try to save my work.",Technical Issue,High
+22,"My free trial was charged without my consent at the end of the period.",Billing,High
+23,"I want to delete my account and all associated data permanently.",Account,Medium
+24,"How do I export my data from the platform?",General Query,Low
+25,"The search functionality returns no results for any query I type.",Technical Issue,Medium
+26,"I want a refund for the annual plan I purchased last week.",Billing,High
+27,"My two-factor authentication code is not being sent to my phone.",Account,High
+28,"Do you offer student discounts for your premium plan?",General Query,Low
+29,"The dashboard is not loading and shows a blank white screen.",Technical Issue,High
+30,"I have a discrepancy between my invoice and actual charge.",Billing,Medium
+31,"I cannot access my account from a new device after switching phones.",Account,Medium
+32,"What is the difference between the basic and premium plans?",General Query,Low
+33,"All my saved files have disappeared after the system update.",Technical Issue,High
+34,"Please cancel my subscription immediately and issue a full refund.",Billing,High
+35,"I need help recovering my account after it was hacked.",Account,High
+36,"How long does it take for a refund to appear on my statement?",General Query,Low
+37,"The API is returning 500 errors for all my requests since this morning.",Technical Issue,High
+38,"I was not notified before being charged for the next billing cycle.",Billing,Medium
+39,"My account profile picture will not update despite multiple attempts.",Account,Low
+40,"Can I use the service in multiple countries with the same account?",General Query,Low
+41,"The notifications are not working and I am missing important alerts.",Technical Issue,Medium
+42,"I need a detailed breakdown of all charges on my account.",Billing,Medium
+43,"I cannot remember the answer to my security question to reset my password.",Account,Medium
+44,"How do I contact technical support for urgent issues?",General Query,Medium
+45,"The integration with third party software stopped working after an update.",Technical Issue,High
+46,"My credit card was charged even though I cancelled before the renewal date.",Billing,High
+47,"My account shows as suspended but I have an active subscription.",Account,High
+48,"Are there any tutorials available for new users?",General Query,Low
+49,"Data synchronization between devices is not working correctly.",Technical Issue,Medium
+50,"I want to upgrade my plan and need to know if there will be any charges.",Billing,Low
+51,"I cannot change my password because the email link keeps expiring.",Account,Medium
+52,"What is your privacy policy regarding user data?",General Query,Low
+53,"The system is very slow and pages take minutes to load.",Technical Issue,Medium
+54,"I was charged after I cancelled my subscription within the trial period.",Billing,High
+55,"I need to add a team member to my account but the option is grayed out.",Account,Medium
+56,"How do I reset my account preferences to default settings?",General Query,Low
+57,"Error messages appear every time I try to print a report.",Technical Issue,Medium
+58,"There is an unauthorized charge from your service on my bank statement.",Billing,High
+59,"My account was merged with another account without my permission.",Account,High
+60,"Do you have a desktop application for Windows?",General Query,Low
+61,"The backup feature is not creating backups despite being enabled.",Technical Issue,Medium
+62,"I need to dispute a charge that was made to my account last month.",Billing,High
+63,"I cannot verify my email address because the link in the email does not work.",Account,Medium
+64,"What are your business hours for customer support?",General Query,Low
+65,"The automated reports are not being generated on the scheduled time.",Technical Issue,Medium
+66,"My payment method was declined even though the card is valid.",Billing,Medium
+67,"I want to close my account but cannot find the option in settings.",Account,Low
+68,"How do I enable dark mode in the application?",General Query,Low
+69,"The real-time collaboration feature is not showing other users changes.",Technical Issue,Medium
+70,"I was charged the wrong amount for my plan compared to what was advertised.",Billing,High
+71,"I need to update my phone number linked to my account for verification.",Account,Low
+72,"Can I access my account on multiple devices simultaneously?",General Query,Low
+73,"The CSV import feature is failing and showing a data format error.",Technical Issue,Medium
+74,"I need to update my payment method before the next billing cycle.",Billing,Low
+75,"My account does not show my previous purchase history.",Account,Medium
+76,"Is the service available in my country?",General Query,Low
+77,"The login page is returning an error and I cannot access the system.",Technical Issue,High
+78,"Please apply the discount code I forgot to use during checkout.",Billing,Medium
+79,"I am getting an error saying my account does not exist.",Account,High
+80,"How do I generate a usage report for my account?",General Query,Low
+81,"The desktop application refuses to install on my Windows 11 computer.",Technical Issue,Medium
+82,"My subscription renewal failed and now I cannot access premium features.",Billing,High
+83,"I cannot see my purchase history in my account dashboard.",Account,Low
+84,"What file formats does your export feature support?",General Query,Low
+85,"Audio is not working in video calls despite having a working microphone.",Technical Issue,Medium
+86,"I was not informed about a price increase before being charged more.",Billing,High
+87,"I need to merge two accounts that I accidentally created.",Account,Medium
+88,"How do I share a document with someone who does not have an account?",General Query,Low
+89,"Screen sharing is not functioning during online meetings.",Technical Issue,Medium
+90,"I was double billed because my payment failed and then succeeded.",Billing,High
+91,"My account username does not reflect the changes I made last week.",Account,Low
+92,"Does the application support offline mode?",General Query,Low
+93,"The data export is failing with a timeout error for large datasets.",Technical Issue,Medium
+94,"I need a receipt for my purchase for business expense reporting.",Billing,Low
+95,"My account has incorrect details that I cannot edit in the settings.",Account,Medium
+96,"How do I cancel my subscription?",General Query,Low
+97,"Unable to connect to the server, getting a connection timeout error.",Technical Issue,High
+98,"I received a refund but it was for the wrong amount.",Billing,Medium
+99,"I lost access to my account after my email provider changed.",Account,High
+100,"What happens to my data if I cancel my subscription?",General Query,Low
